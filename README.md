@@ -6,7 +6,7 @@ I build maintainable systems and delivery platforms using Java, Spring Boot, Pyt
 
 ## Areas of expertise
 
-- **Backend engineering:** Java, Spring Boot, Python, REST APIs, GraphQL, JPA
+- **Backend engineering:** Java, Spring Boot, REST APIs, JPA
 - **Architecture:** Hexagonal Architecture, domain-oriented design, modular systems, integration patterns
 - **Platform and cloud:** AWS, Azure, Terraform, Kubernetes, Helm, Argo CD, Backstage
 - **Quality:** JUnit, Cucumber, BDD, automated testing
